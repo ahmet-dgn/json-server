@@ -12,7 +12,7 @@
       "brandID": "100",
       "categoryIDs": "100",
       "features": {
-        "size": [
+        "sizes": [
           { "size": "S", "price": 350, "stock": 10 },
           { "size": "M", "price": 499.99, "stock": 0 },
           { "size": "L", "price": 600, "stock": 15 },
@@ -58,7 +58,7 @@
       "brandID": "200",
       "categoryIDs": "200",
       "features": {
-        "size": [
+        "sizes": [
           { "size": "S", "price": 555, "stock": 0 },
           { "size": "M", "price": 450, "stock": 0 },
           { "size": "L", "price": 600, "stock": 0 },
@@ -101,7 +101,7 @@
       "brandID": "400",
       "categoryIDs": "200",
       "features": {
-        "size": [
+        "sizes": [
           { "size": "S", "price": 350, "stock": 0 },
           { "size": "M", "price": 499.99, "stock": 0 },
           { "size": "L", "price": 600, "stock": 0 },
@@ -149,7 +149,7 @@
       "brandID": "100",
       "categoryIDs": "100",
       "features": {
-        "size": [
+        "sizes": [
           { "size": "S", "price": 1000, "discountPrice": 849.99, "stock": 10 },
           { "size": "M", "price": 1200, "stock": 10 },
           { "size": "L", "price": 1000, "stock": 15 },
@@ -291,7 +291,7 @@
       "brandID": "300",
       "categoryIDs": "400",
       "features": {
-        "size": [
+        "sizes": [
           { "size": "S", "price": 1800, "stock": 10 },
           { "size": "M", "price": 1600, "stock": 20 },
           { "size": "L", "price": 1499, "stock": 15 },
@@ -334,7 +334,7 @@
       "brandID": "300",
       "categoryIDs": "400",
       "features": {
-        "size": [
+        "sizes": [
           { "size": "S", "price": 3000, "discountPrice": 2800, "stock": 10 },
           { "size": "M", "price": 3000, "stock": 0 },
           { "size": "L", "price": 3100, "stock": 15 },
@@ -555,7 +555,7 @@
       "brandID": "500",
       "categoryIDs": "100",
       "features": {
-        "size": [
+        "sizes": [
           { "size": "S", "price": 1999, "discountPrice": 1850, "stock": 0 },
           { "size": "M", "price": 1999, "stock": 0 },
           { "size": "L", "price": 2000, "discountPrice": 1650, "stock": 0 },
