@@ -11,7 +11,7 @@
       "currency": "TRY",
       "brandID": "100",
       "categoryIDs": "100",
-      "sizes": ["S", "M", "L", "XL"],
+      "sizes": { "small": "S", "medium": "M", "large": "L", "xlarge": "XL" },
       "features": {
         "sizes": [
           { "size": "S", "price": 350, "stock": 10 },
@@ -58,6 +58,7 @@
       "currency": "TRY",
       "brandID": "200",
       "categoryIDs": "200",
+      "sizes": { "small": "S", "medium": "M", "large": "L", "xlarge": "XL" },
       "features": {
         "sizes": [
           { "size": "S", "price": 555, "stock": 0 },
@@ -101,6 +102,7 @@
       "currency": "TRY",
       "brandID": "400",
       "categoryIDs": "200",
+      "sizes": { "small": "S", "medium": "M", "large": "L", "xlarge": "XL" },
       "features": {
         "sizes": [
           { "size": "S", "price": 350, "stock": 0 },
@@ -149,6 +151,7 @@
       "currency": "TRY",
       "brandID": "100",
       "categoryIDs": "100",
+      "sizes": { "small": "S", "medium": "M", "large": "L", "xlarge": "XL" },
       "features": {
         "sizes": [
           { "size": "S", "price": 1000, "discountPrice": 849.99, "stock": 10 },
@@ -291,6 +294,7 @@
       "stok": 100,
       "brandID": "300",
       "categoryIDs": "400",
+      "sizes": { "small": "S", "medium": "M", "large": "L", "xlarge": "XL" },
       "features": {
         "sizes": [
           { "size": "S", "price": 1800, "stock": 10 },
@@ -334,6 +338,7 @@
       "currency": "TRY",
       "brandID": "300",
       "categoryIDs": "400",
+      "sizes": { "small": "S", "medium": "M", "large": "L", "xlarge": "XL" },
       "features": {
         "sizes": [
           { "size": "S", "price": 3000, "discountPrice": 2800, "stock": 10 },
@@ -555,6 +560,7 @@
       "currency": "TRY",
       "brandID": "500",
       "categoryIDs": "100",
+      "sizes": { "small": "S", "medium": "M", "large": "L", "xlarge": "XL" },
       "features": {
         "sizes": [
           { "size": "S", "price": 1999, "discountPrice": 1850, "stock": 0 },
