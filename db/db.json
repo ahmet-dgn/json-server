@@ -11,13 +11,14 @@
       "currency": "TRY",
       "brandID": "100",
       "categoryIDs": "100",
-      "sizes": [
-        { "size": "S", "price": 350, "stock": 10 },
-        { "size": "M", "price": 499.99, "stock": 0 },
-        { "size": "L", "price": 600, "stock": 15 },
-        { "size": "XL", "price": 499.99, "stock": 0 }
-      ],
+      "sizes": { "small": "S", "medium": "M", "large": "L", "xlarge": "XL" },
       "features": {
+        "sizes": [
+          { "size": "S", "price": 350, "stock": 10 },
+          { "size": "M", "price": 499.99, "stock": 0 },
+          { "size": "L", "price": 600, "stock": 15 },
+          { "size": "XL", "price": 499.99, "stock": 0 }
+        ],
         "color": "Mavi",
         "material": "Pamuk",
         "sleeveLength": "Uzub Kol",
