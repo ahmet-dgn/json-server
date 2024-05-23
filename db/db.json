@@ -51,7 +51,7 @@
       ]
     },
     {
-      "productID": "2",
+      "id": "2",
       "name": "Erkek Keten Pantolon - Metalik Mavi",
       "slug": "erkek-keten-pantolon-metalik-mavi",
       "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu leo varius, ultrices arcu id, bibendum justo. Pellentesque gravida dolor id neque ornare, vitae suscipit dolor blandit. Vivamus vestibulum fringilla dui eget semper. Cras pretium nisi id sollicitudin dictum. Pellentesque et convallis ante. Sed viverra enim a dolor consequat ultricies. Pellentesque rhoncus dui sit amet aliquet interdum.",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "productID": "3",
+      "id": "3",
       "name": "Mavi Kot Pantolon",
       "slug": "mavi-kot-pantolon",
       "uploadDate": "2024-05-17T14:26:00Z",
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "productID": "4",
+      "id": "4",
       "name": "Toz Pembe Eşofman",
       "slug": "toz-pembe-esofman",
       "uploadDate": "2024-05-17T13:26:00Z",
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "productID": "5",
+      "id": "5",
       "name": "Rose Gold Saat",
       "slug": "rose-gold-saat",
       "uploadDate": "2024-05-20T15:30:00Z",
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "productID": "6",
+      "id": "6",
       "name": "Snapback Daire Şapka",
       "slug": "snapback-daire-sapka",
       "uploadDate": "2024-05-17T16:26:00Z",
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "productID": "7",
+      "id": "7",
       "name": "Orjinal Kadife Şapka",
       "slug": "orginal-kadife-sapka",
       "uploadDate": "2024-05-17T17:26:00Z",
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "productID": "8",
+      "id": "8",
       "uploadDate": "2024-05-15T16:30:00Z",
       "name": "Magnhild Organik Pamuk Tshirt",
       "slug": "magnhild-organik-pamuk-tshirt",
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "productID": "9",
+      "id": "9",
       "uploadDate": "2024-05-15T15:30:00Z",
       "name": "Jersey Puf Kollu Tshirt",
       "slug": "jersey-puf-kollu-tshirt",
@@ -388,7 +388,7 @@
       ]
     },
     {
-      "productID": "10",
+      "id": "10",
       "name": "Keçe Kovboy Şapkası",
       "slug": "kece-kovboy-sapkasi",
       "uploadDate": "2024-05-15T17:25:00Z",
@@ -423,7 +423,7 @@
       ]
     },
     {
-      "productID": "11",
+      "id": "11",
       "name": "NB Antrenör Şapkası",
       "slug": "nb-antrenor-sapkasi",
       "uploadDate": "2024-05-17T14:27:00Z",
@@ -457,7 +457,7 @@
       ]
     },
     {
-      "productID": "12",
+      "id": "12",
       "name": "Kadın Siyah Pantolon",
       "slug": "kadin-siyah-pantolon",
       "uploadDate": "2024-05-15T17:30:00Z",
@@ -495,7 +495,7 @@
       ]
     },
     {
-      "productID": "13",
+      "id": "13",
       "name": "Minimal Siyah Kol Saati",
       "slug": "minimal-siyah-kol-saati",
       "uploadDate": "2024-05-18T14:26:00Z",
@@ -533,7 +533,7 @@
       ]
     },
     {
-      "productID": "14",
+      "id": "14",
       "name": "Chrono Gunmetal Kumtaşı Kol Saati",
       "slug": "chrono-gunmetal-kumtasi-kol-saati",
       "uploadDate": "2024-05-17T19:26:00Z",
@@ -563,7 +563,7 @@
       ]
     },
     {
-      "productID": "15",
+      "id": "15",
       "name": "Metalik Mavi Kadın Eşofman",
       "slug": "metalik-mavi-kadin-esofman",
       "uploadDate": "2024-05-16T17:25:00Z",
