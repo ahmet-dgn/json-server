@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "productID": "1",
+      "id": "1",
       "name": "Mavi Retro Eşofman",
       "slug": "mavi-retro-esofman",
       "uploadDate": "2024-05-17T13:25:00Z",
