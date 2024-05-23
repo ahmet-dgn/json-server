@@ -13,11 +13,13 @@
       "brandID": "100",
       "categoryIDs": "100",
       "sizes": [
-        { "size": "S", "price": 350, "stock": 10 },
-        { "size": "M", "price": 499.99, "stock": 0 },
-        { "size": "L", "price": 600, "stock": 15 },
-        { "size": "XL", "price": 499.99, "stock": 0 }
+        { "name": "XS", "inStock": true, "price": 350 },
+        { "name": "S", "inStock": false, "price": 499.99 },
+        { "name": "M", "inStock": true, "price": 600 },
+        { "name": "L", "inStock": true, "price": 499.99 },
+        { "name": "XL", "inStock": false, "price": 499.99 }
       ],
+
       "features": {
         "color": "mavi",
         "material": "pamuk",
@@ -60,11 +62,13 @@
       "brandID": "200",
       "categoryIDs": "200",
       "sizes": [
-        { "size": "S", "price": 555, "stock": 0 },
-        { "size": "M", "price": 450, "stock": 0 },
-        { "size": "L", "price": 600, "stock": 0 },
-        { "size": "XL", "price": 549.99, "stock": 0 }
+        { "name": "XS", "inStock": false, "price": 350 },
+        { "name": "S", "inStock": false, "price": 499.99 },
+        { "name": "M", "inStock": false, "price": 600 },
+        { "name": "L", "inStock": false, "price": 499.99 },
+        { "name": "XL", "inStock": false, "price": 499.99 }
       ],
+
       "features": {
         "color": "metalik-mavi",
         "material": "pamuk",
@@ -104,10 +108,11 @@
       "brandID": "400",
       "categoryIDs": "200",
       "sizes": [
-        { "size": "S", "price": 350, "stock": 0 },
-        { "size": "M", "price": 499.99, "stock": 0 },
-        { "size": "L", "price": 600, "stock": 0 },
-        { "size": "XL", "price": 499.99, "stock": 0 }
+        { "name": "XS", "inStock": false, "price": 350 },
+        { "name": "S", "inStock": false, "price": 499.99 },
+        { "name": "M", "inStock": false, "price": 600 },
+        { "name": "L", "inStock": false, "price": 499.99 },
+        { "name": "XL", "inStock": false, "price": 499.99 }
       ],
       "features": {
         "color": "metalik-mavi",
@@ -153,10 +158,11 @@
       "brandID": "100",
       "categoryIDs": "100",
       "sizes": [
-        { "size": "S", "price": 1000, "discountPrice": 849.99, "stock": 10 },
-        { "size": "M", "price": 1200, "stock": 10 },
-        { "size": "L", "price": 1000, "stock": 15 },
-        { "size": "XL", "price": 1000, "stock": 18 }
+        { "name": "XS", "inStock": true, "price": 350 },
+        { "name": "S", "inStock": true, "price": 499.99 },
+        { "name": "M", "inStock": true, "price": 600 },
+        { "name": "L", "inStock": true, "price": 499.99 },
+        { "name": "XL", "inStock": true, "price": 499.99 }
       ],
       "features": {
         "color": "toz-pembe",
@@ -299,10 +305,11 @@
       "brandID": "300",
       "categoryIDs": "400",
       "sizes": [
-        { "size": "S", "price": 1800, "stock": 10 },
-        { "size": "M", "price": 1600, "stock": 20 },
-        { "size": "L", "price": 1499, "stock": 15 },
-        { "size": "XL", "price": 1499, "stock": 0 }
+        { "name": "XS", "inStock": true, "price": 350 },
+        { "name": "S", "inStock": true, "price": 499.99 },
+        { "name": "M", "inStock": true, "price": 600 },
+        { "name": "L", "inStock": true, "price": 499.99 },
+        { "name": "XL", "inStock": true, "price": 499.99 }
       ],
       "features": {
         "color": "beyaz",
@@ -343,10 +350,11 @@
       "brandID": "300",
       "categoryIDs": "400",
       "sizes": [
-        { "size": "S", "price": 3000, "discountPrice": 2800, "stock": 10 },
-        { "size": "M", "price": 3000, "stock": 0 },
-        { "size": "L", "price": 3100, "stock": 15 },
-        { "size": "XL", "price": 3000, "stock": 0 }
+        { "name": "XS", "inStock": true, "price": 350 },
+        { "name": "S", "inStock": true, "price": 499.99 },
+        { "name": "M", "inStock": true, "price": 600 },
+        { "name": "L", "inStock": true, "price": 499.99 },
+        { "name": "XL", "inStock": true, "price": 499.99 }
       ],
       "features": {
         "color": "yesil",
@@ -569,10 +577,11 @@
       "brandID": "500",
       "categoryIDs": "100",
       "sizes": [
-        { "size": "S", "price": 1999, "discountPrice": 1850, "stock": 0 },
-        { "size": "M", "price": 1999, "stock": 0 },
-        { "size": "L", "price": 2000, "discountPrice": 1650, "stock": 0 },
-        { "size": "XL", "price": 1999, "stock": 0 }
+        { "name": "XS", "inStock": true, "price": 350 },
+        { "name": "S", "inStock": true, "price": 499.99 },
+        { "name": "M", "inStock": true, "price": 600 },
+        { "name": "L", "inStock": true, "price": 499.99 },
+        { "name": "XL", "inStock": true, "price": 499.99 }
       ],
       "features": {
         "color": "metalik-mavi",
