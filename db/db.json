@@ -12,14 +12,13 @@
       "currency": "TRY",
       "brandID": "100",
       "categoryIDs": "100",
-      "sizes": { "small": "s", "medium": "m", "large": "l", "xlarge": "xl" },
+      "sizes": [
+        { "size": "S", "price": 350, "stock": 10 },
+        { "size": "M", "price": 499.99, "stock": 0 },
+        { "size": "L", "price": 600, "stock": 15 },
+        { "size": "XL", "price": 499.99, "stock": 0 }
+      ],
       "features": {
-        "sizes": [
-          { "size": "S", "price": 350, "stock": 10 },
-          { "size": "M", "price": 499.99, "stock": 0 },
-          { "size": "L", "price": 600, "stock": 15 },
-          { "size": "XL", "price": 499.99, "stock": 0 }
-        ],
         "color": "mavi",
         "material": "pamuk",
         "sleeveLength": "uzun-kol",
@@ -60,14 +59,13 @@
       "currency": "TRY",
       "brandID": "200",
       "categoryIDs": "200",
-      "sizes": { "small": "s", "medium": "m" },
+      "sizes": [
+        { "size": "S", "price": 555, "stock": 0 },
+        { "size": "M", "price": 450, "stock": 0 },
+        { "size": "L", "price": 600, "stock": 0 },
+        { "size": "XL", "price": 549.99, "stock": 0 }
+      ],
       "features": {
-        "sizes": [
-          { "size": "S", "price": 555, "stock": 0 },
-          { "size": "M", "price": 450, "stock": 0 },
-          { "size": "L", "price": 600, "stock": 0 },
-          { "size": "XL", "price": 549.99, "stock": 0 }
-        ],
         "color": "metalik-mavi",
         "material": "pamuk",
         "pattern": "duz",
@@ -105,14 +103,13 @@
       "currency": "TRY",
       "brandID": "400",
       "categoryIDs": "200",
-      "sizes": { "small": "s", "medium": "m", "large": "l" },
+      "sizes": [
+        { "size": "S", "price": 350, "stock": 0 },
+        { "size": "M", "price": 499.99, "stock": 0 },
+        { "size": "L", "price": 600, "stock": 0 },
+        { "size": "XL", "price": 499.99, "stock": 0 }
+      ],
       "features": {
-        "sizes": [
-          { "size": "S", "price": 350, "stock": 0 },
-          { "size": "M", "price": 499.99, "stock": 0 },
-          { "size": "L", "price": 600, "stock": 0 },
-          { "size": "XL", "price": 499.99, "stock": 0 }
-        ],
         "color": "metalik-mavi",
         "material": "pamuk",
         "pattern": "duz",
@@ -155,14 +152,13 @@
       "currency": "TRY",
       "brandID": "100",
       "categoryIDs": "100",
-      "sizes": { "small": "s", "medium": "m", "large": "l", "xlarge": "xl" },
+      "sizes": [
+        { "size": "S", "price": 1000, "discountPrice": 849.99, "stock": 10 },
+        { "size": "M", "price": 1200, "stock": 10 },
+        { "size": "L", "price": 1000, "stock": 15 },
+        { "size": "XL", "price": 1000, "stock": 18 }
+      ],
       "features": {
-        "sizes": [
-          { "size": "S", "price": 1000, "discountPrice": 849.99, "stock": 10 },
-          { "size": "M", "price": 1200, "stock": 10 },
-          { "size": "L", "price": 1000, "stock": 15 },
-          { "size": "XL", "price": 1000, "stock": 18 }
-        ],
         "color": "toz-pembe",
         "material": "pamuk",
         "pattern": "duz",
@@ -302,14 +298,13 @@
       "stok": 100,
       "brandID": "300",
       "categoryIDs": "400",
-      "sizes": { "medium": "m", "large": "l" },
+      "sizes": [
+        { "size": "S", "price": 1800, "stock": 10 },
+        { "size": "M", "price": 1600, "stock": 20 },
+        { "size": "L", "price": 1499, "stock": 15 },
+        { "size": "XL", "price": 1499, "stock": 0 }
+      ],
       "features": {
-        "sizes": [
-          { "size": "S", "price": 1800, "stock": 10 },
-          { "size": "M", "price": 1600, "stock": 20 },
-          { "size": "L", "price": 1499, "stock": 15 },
-          { "size": "XL", "price": 1499, "stock": 0 }
-        ],
         "color": "beyaz",
         "material": "pamuk",
         "pattern": "duz",
@@ -347,14 +342,13 @@
       "currency": "TRY",
       "brandID": "300",
       "categoryIDs": "400",
-      "sizes": { "small": "s", "medium": "m", "large": "l", "xlarge": "xl" },
+      "sizes": [
+        { "size": "S", "price": 3000, "discountPrice": 2800, "stock": 10 },
+        { "size": "M", "price": 3000, "stock": 0 },
+        { "size": "L", "price": 3100, "stock": 15 },
+        { "size": "XL", "price": 3000, "stock": 0 }
+      ],
       "features": {
-        "sizes": [
-          { "size": "S", "price": 3000, "discountPrice": 2800, "stock": 10 },
-          { "size": "M", "price": 3000, "stock": 0 },
-          { "size": "L", "price": 3100, "stock": 15 },
-          { "size": "XL", "price": 3000, "stock": 0 }
-        ],
         "color": "yesil",
         "material": "pamuk",
         "pattern": "dokuma",
@@ -574,14 +568,13 @@
       "currency": "TRY",
       "brandID": "500",
       "categoryIDs": "100",
-      "sizes": { "small": "s", "medium": "m", "large": "l", "xlarge": "xl" },
+      "sizes": [
+        { "size": "S", "price": 1999, "discountPrice": 1850, "stock": 0 },
+        { "size": "M", "price": 1999, "stock": 0 },
+        { "size": "L", "price": 2000, "discountPrice": 1650, "stock": 0 },
+        { "size": "XL", "price": 1999, "stock": 0 }
+      ],
       "features": {
-        "sizes": [
-          { "size": "S", "price": 1999, "discountPrice": 1850, "stock": 0 },
-          { "size": "M", "price": 1999, "stock": 0 },
-          { "size": "L", "price": 2000, "discountPrice": 1650, "stock": 0 },
-          { "size": "XL", "price": 1999, "stock": 0 }
-        ],
         "color": "metalik-mavi",
         "material": "pamuk",
         "pattern": "duz",
