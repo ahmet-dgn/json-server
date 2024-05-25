@@ -698,25 +698,25 @@
         "featured": [
           {
             "name": "Tshirt",
-            "href": "search?categoryIDs=400",
+            "href": "/search?categoryIDs=400",
             "imageSrc": "https://drive.google.com/uc?export=view&id=1rxI--e_3YRpEdY11AVn35vhjJyLVX0e_",
             "imageAlt": "Tshirt"
           },
           {
             "name": "Eşofman",
-            "href": "search?categoryIDs=100",
+            "href": "/search?categoryIDs=100",
             "imageSrc": "https://drive.google.com/uc?export=view&id=1R7i9dq0CUEC4yk8kZRm0kUR3IIxOiXn0",
             "imageAlt": "Eşofman"
           },
           {
             "name": "Pantalon",
-            "href": "search?categoryIDs=200",
+            "href": "/search?categoryIDs=200",
             "imageSrc": "https://drive.google.com/uc?export=view&id=1yIK-vENUu-3qXbVxuhk5plJTlpGmwb_s",
             "imageAlt": "Pantalon"
           },
           {
             "name": "Şapka",
-            "href": "search?categoryIDs=500",
+            "href": "/search?categoryIDs=500",
             "imageSrc": "https://drive.google.com/uc?export=view&id=1hTSoX9DQujqVQCYEqsAkFhRmOlfwMIH6",
             "imageAlt": "Şapka"
           }
