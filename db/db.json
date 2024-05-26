@@ -729,5 +729,25 @@
         "href": "#"
       }
     ]
-  }
+  },
+  "banners": [
+    {
+      "image": "/slider-1.webp",
+      "url": "/search?categoryIDs=500",
+      "alt": "Şapka",
+      "bgColor": "bg-red-100"
+    },
+    {
+      "image": "/slider-2.webp",
+      "url": "/search?categoryIDs=400",
+      "alt": "Tshirt",
+      "bgColor": "bg-amber-100"
+    },
+    {
+      "image": "/slider-3.webp",
+      "url": "/search?categoryIDs=200",
+      "alt": "Pantolon",
+      "bgColor": "bg-cyan-100"
+    }
+  ]
 }
