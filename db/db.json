@@ -732,19 +732,19 @@
   },
   "banners": [
     {
-      "image": "/slider-1.webp",
+      "image": "/slider-1.jpg",
       "url": "/search?categoryIDs=500",
       "alt": "Şapka",
       "bgColor": "bg-red-100"
     },
     {
-      "image": "/slider-2.webp",
+      "image": "/slider-2.jpg",
       "url": "/search?categoryIDs=400",
       "alt": "Tshirt",
       "bgColor": "bg-amber-100"
     },
     {
-      "image": "/slider-3.webp",
+      "image": "/slider-3.jpg",
       "url": "/search?categoryIDs=200",
       "alt": "Pantolon",
       "bgColor": "bg-cyan-100"
