@@ -722,11 +722,11 @@
     "pages": [
       {
         "name": "Hakkımızda",
-        "href": "#"
+        "href": "/about"
       },
       {
         "name": "İletişim",
-        "href": "#"
+        "href": "/contact"
       }
     ]
   },
